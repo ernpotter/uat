@@ -1,0 +1,12 @@
+# Sensitive / credentials
+.credentials.json
+
+# Runtime / ephemeral data
+history.jsonl
+backups/
+cache/
+ide/
+projects/
+session-env/
+sessions/
+shell-snapshots/
